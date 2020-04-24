@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d443caca20c8e5c4aa93a64b0cea6ece
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - verticesTexture: {fileID: 2569271470230617038, guid: 680db9fcc91ed154b805482e695f0875,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
